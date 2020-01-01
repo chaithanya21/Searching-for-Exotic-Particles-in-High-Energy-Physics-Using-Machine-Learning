@@ -1,0 +1,15 @@
+The dataset can be imported using the below URL 
+https://archive.ics.uci.edu/ml/machine-learning-databases/00279/SUSY.csv.gz
+
+The dataset required for the classification of measurement of data was imported from UCI ML Repository as the
+Pandas Dataframe. The dataset was imported as a CSV file trough URL by using the read_csv method from
+the Pandas package.
+
+OR 
+
+The dataset can be downloaded from the official UCI Machine Learning repository to the Local Machine
+https://archive.ics.uci.edu/ml/datasets/SUSY
+
+
+
+
