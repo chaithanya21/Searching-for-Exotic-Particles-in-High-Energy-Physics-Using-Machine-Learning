@@ -15,3 +15,7 @@ Decision Trees provide a powerful way to solve this learning problem.
 This assignment focuses on solving the problem of classification of measurement data from particle
 accelerators to detect the presence of a fundamental particle, where the algorithm needs to classify the
 problem as either Made By particle or Background Noise.
+
+
+FURTHER READING:
+Baldi, P., P. Sadowski, and D. Whiteson. “Searching for Exotic Particles in High-energy Physics with Deep Learning.” Nature Communications 5 (July 2, 2014)
