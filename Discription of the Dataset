@@ -1,0 +1,9 @@
+The first column in the dataset is the Class label which is either 1 (Background Signal) and 0 (Made By
+Particle) followed by 18 Features. The first 8 features are kinematic properties measured by the particle
+detectors in the accelerator. The last ten features are functions of the first 8 features, these are high-level
+features derived by physicists to help discriminate between the two classes.
+
+
+ORIGINAL PAPER and REFERENECES:
+
+https://arxiv.org/pdf/1402.4735.pdf
